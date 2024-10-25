@@ -28,6 +28,7 @@ Python : Langage de programmation principal.
 Pygame : Bibliothèque pour créer l'interface graphique et les animations.
 
 📸 Captures d'écran
+
 ![image](https://github.com/user-attachments/assets/c8a00c2c-39dc-4906-9987-0c157b48ac17)
 
 
