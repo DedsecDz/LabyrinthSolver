@@ -1,13 +1,17 @@
-# LabyrinthSolver
+# LabyrinthSolver V2
 Ce projet est une implémentation interactive de génération et de résolution de labyrinthe utilisant plusieurs algorithmes populaires. La structure et la mise en page du code ont été assistées par ChatGPT, un modèle d'intelligence artificielle développé par OpenAI.
 
 📜 Description
 LabyrintheResolve permet de générer un labyrinthe aléatoire et de visualiser différents algorithmes de recherche de chemin en action, notamment :
 
 Dijkstra : Un algorithme de recherche de chemin pour trouver le chemin le plus court.
+
 A* : Un algorithme de recherche heuristique efficace pour la navigation.
+
 BFS (Breadth-First Search) : Un algorithme de recherche en largeur.
+
 DFS (Depth-First Search) : Un algorithme de recherche en profondeur.
+
 Le projet permet également de comparer les performances de ces algorithmes en temps réel sur un labyrinthe généré.
 
 🚀 Mise en place
