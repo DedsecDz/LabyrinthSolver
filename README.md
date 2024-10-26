@@ -39,5 +39,3 @@ Pygame : Bibliothèque pour créer l'interface graphique et les animations.
 📄 Remerciements
 La conception et la logique de ce projet ont été réalisées indépendamment, avec l'assistance de ChatGPT uniquement pour la mise en page et l'organisation du code.
 
-📞 Contact
-Pour toute question ou suggestion, n'hésitez pas à me contacter à adnane_allou@outlook.fr 
